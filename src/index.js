@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import "antd/dist/antd.css"  // 전역스타일 추가 in index.js
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
